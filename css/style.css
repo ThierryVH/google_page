@@ -104,9 +104,6 @@ margin-right: 20px;
 
 /* Partie principale */
 
-section{
-  font-weight: bold;
-}
 
 .barre_recherche a{
   display: inline-block;
@@ -127,6 +124,7 @@ section{
 .image_google{
   width: 290px;
   margin: 125px auto 0 auto;
+  font-weight: bold;
 }
 
 .barre_recherche{
@@ -253,9 +251,6 @@ margin-right: 20px;
 
 /* Partie principale */
 
-section{
-  font-weight: bold;
-}
 
 .barre_recherche a{
   display: inline-block;
@@ -276,6 +271,7 @@ section{
 .image_google{
   width: 290px;
   margin: 125px auto 0 auto;
+  font-weight: bold;
 }
 
 .barre_recherche{
@@ -403,9 +399,6 @@ input{
 
   /* Partie principale */
 
-  section{
-    font-weight: bold;
-  }
 
   .barre_recherche a{
     display: inline-block;
@@ -427,6 +420,7 @@ input{
   .image_google{
     width: 200px;
     margin: 50px auto 0 auto;
+    font-weight: bold;
   }
 
   img {
