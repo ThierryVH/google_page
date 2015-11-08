@@ -78,7 +78,7 @@ footer a{
 
 /* Transitions images menu*/
 
-.transition_images{
+#bouton_menu{
 position: relative;
 height: 17px;
 width: 17px;
@@ -87,16 +87,7 @@ margin-right: 20px;
 
 }
 
-.transition_images img {
-  position:absolute;
-  left:0;
-}
-
-.transition_images img.top:hover {
-  opacity:0;
-}
-
-.top, .bottom{
+.bouton_menu{
   height: 17px;
   width: 17px;
 
@@ -225,7 +216,7 @@ footer a{
 
 /* Transitions images menu*/
 
-.transition_images{
+#bouton_menu{
 position: relative;
 height: 17px;
 width: 17px;
@@ -234,16 +225,7 @@ margin-right: 20px;
 
 }
 
-.transition_images img {
-  position:absolute;
-  left:0;
-}
-
-.transition_images img.top:hover {
-  opacity:0;
-}
-
-.top, .bottom{
+.bouton_menu{
   height: 17px;
   width: 17px;
 
@@ -316,7 +298,7 @@ input{
   }
 
 
-  .transition_images{
+#bouton_menu{
   position: relative;
   height: 17px;
   width: 17px;
@@ -325,18 +307,9 @@ input{
   margin-top: -10px;
   }
 
-  .top, .bottom{
+  .bouton_menu{
     height: 17px;
     width: 17px;
-  }
-
-  .transition_images img {
-    position:absolute;
-    left:0;
-  }
-
-  .transition_images img.top:hover {
-    opacity:0;
   }
 
   /* Footer */
